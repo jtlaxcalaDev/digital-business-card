@@ -1,0 +1,6 @@
+.main--container {
+  width: max-content;
+  padding: 1.4em 2.8em;
+  background-color: #23252C;
+  border-radius: 8px;
+}

@@ -1,0 +1,75 @@
+.card--body {
+  padding: 14px;
+}
+
+.profile--name {
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 30px;
+}
+
+.profile--role {
+  font-size: 14px;
+  font-weight: 400;
+  color: #F3BF99;
+  line-height: 15.49px;
+}
+
+.profile--webpage {
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 15.36px;
+}
+
+.buttons--container {
+  margin: .6em auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.button--cta {
+  height: 2.4em;
+  margin: .4em;
+  padding: 0 1em;
+  border-style: none;
+  border-radius: 4px;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.icon--cta {
+  width: 12px;
+  margin-right: .6em;
+}
+
+.button--linkedin {
+  color: #f0f0f0;
+  background-color: #5093E2;
+}
+
+.description--container {
+  text-align: left;
+}
+
+.subtitle--description {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+}
+
+.description {
+  font-size: 10px;
+  font-weight: 400;
+  line-height: 16px;
+  margin-bottom: 1em;
+}
+
+a {
+  text-decoration: none;
+}
